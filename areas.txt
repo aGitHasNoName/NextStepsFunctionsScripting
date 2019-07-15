@@ -1,0 +1,8 @@
+squareMeters	10.7639
+squareKilometers	10760000
+squareYards	9
+acres	43560
+hectares	107639
+squareFeet	1
+squareMiles	27880000
+squareInches	0.00694444
